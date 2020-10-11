@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'August Lake Resort',
+	'name'=>'Hotel Name',
     'sourceLanguage'=>'en',
 
 	// preloading 'log' component
@@ -104,7 +104,7 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'admin@gmail.com',
-		'adminName'=>'AUGUST LAKE RESORT',
+		'adminName'=>'Admin name',
 		'listPerPage'=> 9,
 	),
 );
